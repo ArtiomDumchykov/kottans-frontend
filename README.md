@@ -1,6 +1,6 @@
 # kottans-frontend
 
-![images](assets/img/frontend.png)
+![images](assets/img/frontend.jpg)
 
 ## Hi there
 
